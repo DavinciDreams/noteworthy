@@ -50,7 +50,7 @@
     "lodash.some": "4.6.0",
     "lodash.sortby": "4.7.0",
     "magic-sdk": "4.1.1",
-    "next": "10.0.6",
+    "next": "12.1.0",
     "rdk": "5.0.6",
     "react": "17.0.1",
     "react-debounce-input": "3.2.3",
